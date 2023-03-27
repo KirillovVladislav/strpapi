@@ -159,7 +159,7 @@
   }
 
   .card:hover span {
-    transform: translateX(4px);
+    transform: translateX(100px);
   }
 }
 
